@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Raihan
-- 👀 I’m interested in Web Developnment
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Creating Website
+- 🌱 I’m currently learning Web Development
