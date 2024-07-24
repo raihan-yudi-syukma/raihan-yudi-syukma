@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Raihan
-- 👀 I’m interested in Creating Website
-- 🌱 I’m currently learning Web Development
+- 👋🏻 Hello! My name is Raihan Yudi Syukma.
+- 👨🏻‍💻 I’m interested in Web Development.
+- 🤓 I’m currently learning Laravel.
